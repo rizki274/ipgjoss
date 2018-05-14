@@ -13,8 +13,14 @@ class Config(object):
     IMEI        =  '1365925237'
 
     SERVICE_ID  =  {
-        'XL_XTRA_KUOTA' : '8110577',
-        'XL_GO_IZI'     : '8211231'
+        'XL_XTRA_KUOTA' 	: '8110577',
+        'XL_GO_IZI'    		: '8211231',
+	'Xtra Combo Lite 3GB' 	: '8110577',
+        'Xtra Combo Lite 5GB'   : '8211231',
+	'Xtra Combo Lite 9GB' 	: '8110577',
+        'Xtra Combo Lite 17GB' 	: '8211231',
+	'Xtra Combo Lite 25GB' 	: '8110577'
+	    
     }
 
     HEADERS     =  {
